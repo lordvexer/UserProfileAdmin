@@ -1,0 +1,60 @@
+﻿@page
+@model TvedcAdmin.Pages.Fiders.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Fiders1</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Fiders1.Id" />
+            <div class="form-group">
+                <label asp-for="Fiders1.AddressId" class="control-label"></label>
+                <input asp-for="Fiders1.AddressId" class="form-control" />
+                <span asp-validation-for="Fiders1.AddressId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiders1.FiderId" class="control-label"></label>
+                <input asp-for="Fiders1.FiderId" class="form-control" />
+                <span asp-validation-for="Fiders1.FiderId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiders1.RegionName" class="control-label"></label>
+                <input asp-for="Fiders1.RegionName" class="form-control" />
+                <span asp-validation-for="Fiders1.RegionName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiders1.FiderCode" class="control-label"></label>
+                <input asp-for="Fiders1.FiderCode" class="form-control" />
+                <span asp-validation-for="Fiders1.FiderCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiders1.Address" class="control-label"></label>
+                <input asp-for="Fiders1.Address" class="form-control" />
+                <span asp-validation-for="Fiders1.Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiders1.FiderName" class="control-label"></label>
+                <input asp-for="Fiders1.FiderName" class="form-control" />
+                <span asp-validation-for="Fiders1.FiderName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

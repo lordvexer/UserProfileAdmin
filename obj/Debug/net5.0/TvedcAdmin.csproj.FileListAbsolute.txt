@@ -1,0 +1,1026 @@
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\appsettings.Development.json
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\appsettings.json
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.exe
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Humanizer.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.pdb
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\tvedcadmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+D:\IT\Mahmoodzadeh\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\appsettings.Development.json
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\appsettings.json
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.exe
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Humanizer.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.pdb
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+X:\Falcon - Bootstrap Admin Dashboard Template + UI Kit\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\appsettings.Development.json
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\appsettings.json
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.exe
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.pdb
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Humanizer.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+X:\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Create.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Delete.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Details.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Edit.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Index.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Create.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Delete.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Details.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Edit.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Index.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Create.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Delete.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Details.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Edit.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Index.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Create.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Delete.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Details.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Edit.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Index.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Create.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Delete.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Details.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Edit.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Index.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.dll
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.pdb
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+X:\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\appsettings.Development.json
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\appsettings.json
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.exe
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Humanizer.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Create.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Delete.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Details.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Edit.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Index.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Create.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Delete.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Details.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Edit.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Index.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Create.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Delete.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Details.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Edit.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Index.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Create.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Delete.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Details.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Edit.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Index.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.pdb
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OC\Create.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OC\Delete.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OC\Details.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OC\Edit.cshtml.g.cs
+D:\IT\Mahmoodzadeh\Falcon\falconadmin\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OC\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\appsettings.json
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.exe
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Humanizer.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\404.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.pdb
+C:\Users\h.mahmoodzadeh\Desktop\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\appsettings.Development.json
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\appsettings.json
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.exe
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.pdb
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Humanizer.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BackUp\14000714\TvedcAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\404.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Create.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Delete.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Details.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Edit.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Index.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Create.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Delete.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Details.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Edit.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Index.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Create.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Delete.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Details.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Edit.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Index.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Create.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Delete.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Details.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Edit.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Index.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Create.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Delete.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Details.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Edit.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Records\Index.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.dll
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.pdb
+D:\BackUp\14000714\TvedcAdmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.StaticWebAssets.xml
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\appsettings.json
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.exe
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.deps.json
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.json
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.runtimeconfig.dev.json
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ref\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.Views.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\TvedcAdmin.Views.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Humanizer.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.AssemblyReference.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfoInputs.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.AssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CoreCompileInputs.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.RazorAssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.Manifest.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\staticwebassets\TvedcAdmin.StaticWebAssets.xml
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\scopedcss\bundle\TvedcAdmin.styles.css
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.input.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.TagHelpers.output.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.RazorCoreGenerate.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\404.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\AboutUs.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Contacts\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Fiders\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeContacts\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\OfficeExpert\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Records\Create.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Records\Delete.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Records\Details.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Records\Edit.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Records\Index.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.RazorTargetAssemblyInfo.cs
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.Views.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\ref\TvedcAdmin.dll
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.pdb
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.genruntimeconfig.cache
+C:\Users\h.mahmoodzadeh\Desktop\Prac\UserProfileAdmin\obj\Debug\net5.0\TvedcAdmin.csproj.CopyComplete

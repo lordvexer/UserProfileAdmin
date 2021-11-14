@@ -1,0 +1,37 @@
+﻿@page
+@model TvedcAdmin.Pages.Contacts.DetailsModel
+
+@{
+    ViewData["Title"] = "جزئیات";
+}
+
+
+
+<div>
+    
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AboutUs_Contacts.AssistantId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AboutUs_Contacts.AssistantId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AboutUs_Contacts.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AboutUs_Contacts.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AboutUs_Contacts.Value)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AboutUs_Contacts.Value)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.AboutUs_Contacts.Id">Edit</a> |
+    <a asp-page="./Index">بازگشت</a>
+</div>

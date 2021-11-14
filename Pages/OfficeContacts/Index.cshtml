@@ -1,0 +1,89 @@
+﻿@page
+@model TvedcAdmin.Pages.OC.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].OfficeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].Manager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].BirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].Role)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].DegreeOfEducation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].Duties)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].AssistantId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts[0].Avatar)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.AboutUs_OfficeContacts)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OfficeName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Manager)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BirthDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Role)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DegreeOfEducation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Duties)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AssistantId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Avatar)
+                </td>
+                <td>
+                    @if (!item.AssistantId.HasValue)
+                    {
+                        <a href="?Id=@item.Id"> View </a><span>|</span>
+                    }
+                    else
+                    {
+                        <a href="~/OfficeExpert/index?Id=@item.Id">View</a><span>|</span>
+                    }
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a href="~/Records/index?Id=@item.Id">سوابق</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                    <a href="~/Contacts/index?Id=@item.Id">تماس</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

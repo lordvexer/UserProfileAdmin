@@ -1,0 +1,67 @@
+﻿@page
+@model TvedcAdmin.Pages.OC.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AboutUs_OfficeContacts</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.OfficeName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.OfficeName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.Manager)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.Manager)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.BirthDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.BirthDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.Role)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.Role)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.DegreeOfEducation)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.DegreeOfEducation)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.Duties)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.Duties)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.AssistantId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.AssistantId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AboutUs_OfficeContacts.Avatar)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AboutUs_OfficeContacts.Avatar)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.AboutUs_OfficeContacts.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,0 +1,55 @@
+﻿@page
+@model TvedcAdmin.Pages.Fiders.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Fiders1</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiders1.AddressId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fiders1.AddressId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiders1.FiderId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fiders1.FiderId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiders1.RegionName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fiders1.RegionName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiders1.FiderCode)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fiders1.FiderCode)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiders1.Address)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fiders1.Address)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Fiders1.FiderName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Fiders1.FiderName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Fiders1.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
